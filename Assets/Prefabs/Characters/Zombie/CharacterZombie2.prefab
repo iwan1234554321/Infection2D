@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2400943582213116973
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2364979300741602883, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: settings
+      value: 
+      objectReference: {fileID: 11400000, guid: 7d3d3c26e81a3e64699d8c4580559aa4, type: 2}
+    - target: {fileID: 4184300673192389535, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 528829080788541394, guid: a8f69e4b044d9694482cdb03150fa11b, type: 3}
+    - target: {fileID: 4824341008147275520, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: 'spriteAnimations.Array.data[0]'
+      value: 
+      objectReference: {fileID: 11400000, guid: 3f320f6ce38558a4d96bddceb23f8533, type: 2}
+    - target: {fileID: 4824341008147275520, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: 'spriteAnimations.Array.data[1]'
+      value: 
+      objectReference: {fileID: 11400000, guid: 033345e4287f0d7409bcf857c0f37f90, type: 2}
+    - target: {fileID: 6900430177164720285, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 6900430177164720285, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6900430177164720285, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6900430177164720285, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6900430177164720285, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6900430177164720285, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6900430177164720285, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6900430177164720285, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6900430177164720285, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6900430177164720285, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8612969964625257904, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
+      propertyPath: m_Name
+      value: CharacterZombie2 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7415dc4aa6204ee47bb9ca808bfefeb9, type: 3}
