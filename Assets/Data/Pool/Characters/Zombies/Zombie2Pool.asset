@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f71f585cc147c4346b8a539e8d9e32b5, type: 3}
+  m_Name: Zombie2Pool
+  m_EditorClassIdentifier: 
+  poolObject: {fileID: 560452430520360299, guid: b63a42d13dfa3c64c931a767e19c8cd1, type: 3}
+  maxCount: 10
