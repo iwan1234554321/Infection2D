@@ -2,3 +2,5 @@
 Logs
 *.csproj
 *.sln
+Temp
+obj
