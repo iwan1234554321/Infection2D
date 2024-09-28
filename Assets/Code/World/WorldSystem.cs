@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Notteam.World
 {
-    public class WorldSystem : MonoBehaviour
+    public abstract class WorldSystem : MonoBehaviour
     {
         internal virtual void OnCreatedEntity<TEntity>(TEntity entity) where TEntity : WorldEntity { }
         internal virtual void OnDestroyedEntity<TEntity>(TEntity entity) where TEntity : WorldEntity { }
