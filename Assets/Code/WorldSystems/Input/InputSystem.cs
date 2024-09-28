@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using static UnityEngine.InputSystem.InputAction;
 
-public class PlayerInputSystem : WorldSystem<PlayerInput>
+public class InputSystem : WorldSystem<InputObject>
 {
     [SerializeField] private InputActionAsset asset;
 
